@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="/Users/promode/IdeaProjects/APIAutomationFramworkATB11x">
+    <test verbose="2" preserve-order="true" name="APIAutomationFramworkATB11x">
         <classes>
             <class name="com.thetestingacademy.tests.sample.TestIntegrationSample">
-                <methods>
-                    <include name="testCreateBooking"/>
-                    <include name="testVerifyBookingId"/>
-                </methods>
             </class>
         </classes>
     </test>
