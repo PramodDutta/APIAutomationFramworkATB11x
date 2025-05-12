@@ -1,4 +1,4 @@
-package com.thetestingacademy.tests.base;
+package com.thetestingacademy.base;
 
 public class BaseTest {
     // CommonToAll Testcase
