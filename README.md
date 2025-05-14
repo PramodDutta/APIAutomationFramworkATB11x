@@ -162,7 +162,7 @@ By following these steps, you should be able to successfully install Allure, run
 #### Try these Cases also
 
 POSTMAN Assignments
- Assignment  1
+ Assignment  1
 
 Create the Collections for the This Test cases :
 
