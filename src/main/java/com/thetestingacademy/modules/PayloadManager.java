@@ -138,6 +138,14 @@ public class PayloadManager {
 
     }
 
+    public String partialUpdatePayloadAsString() {
+        Booking booking = new Booking();
+        booking.setFirstname("Lucky");
+        booking.setLastname("Dutta");
+        return gson.toJson(booking);
+
+    }
+
 
 
 
